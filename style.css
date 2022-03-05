@@ -1,0 +1,17 @@
+/*Your CSS code goes below this line*/
+button, input[type="button"], input[type="submit"] {
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 4px 2px;
+}
+.one {background-color: #31CC70;} 
+.two {background-color: #FBA509;} 
+.three {background-color: #9B59B6;}
